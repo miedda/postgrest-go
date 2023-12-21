@@ -1,3 +1,3 @@
-module github.com/nedpals/postgrest-go
+module github.com/miedda/postgrest-go
 
 go 1.16
